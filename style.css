@@ -6,6 +6,7 @@
 h1.name {
     font-family: 'Georgia', serif;
     color: #4CAF50;
+    font-weight: 700;
 }
 
 .list-group-item {
